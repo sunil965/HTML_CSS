@@ -1,0 +1,44 @@
+li {
+  padding-left: 30;
+  color: red;
+  width: 200px;
+  border: 1px solid black;
+  background: yellow;
+}
+p1{color: brown;}
+p{ color: green; }
+
+
+div.cities {
+    background-color: black;
+    color: white;
+    margin: 20px 0 20px 0;
+    padding: 20px;
+}
+
+#My_Id{font-family: verdana;
+      font-size: 40;
+      color: green;
+      }
+
+a:hover{color: red;}
+
+font-family: 'Spirax', cursive;
+
+html { background-color: white; }
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #FF9500;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+table, th, td {
+    border: 1px solid black;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
